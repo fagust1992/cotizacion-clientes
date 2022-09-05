@@ -37,7 +37,7 @@ const Formulario_cliente = (props)=>{
                 <input type="text" value={inputcomentario} onChange={(e) => setInputcomentario(e.target.value)} className="col-10 input" placeholder='Comentario'/>
                 <input type="text" value={inputcotizacion} onChange={(e) => setInputcotizacion(e.target.value)} className="col-8 input"  placeholder='cotizacion'/>
 
-                <button className='col-8 btn-primary'>Agregar tarea</button>
+                <button className='col-8 btn-primary'>Agregar Cliente</button>
             </div>
              
 
