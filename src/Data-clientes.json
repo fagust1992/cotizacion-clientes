@@ -1,0 +1,30 @@
+
+
+[
+  {
+"cotizacion": 20301,
+"nombre": "joel guerrero",
+"correo": "joelguerrero@gmail.com",
+"comentario": "cliente informa que quiere comprar sabado 3-09.2022"
+  },
+  
+  {
+    "cotizacion": 20333,
+    "nombre": "miguel ruiz",
+    "correo": "miguelruiz@gmail.com",
+    "comentario": "cliente informa que quiere no quiere comrpar cerrar cotizacion"
+      },
+      {
+        "cotizacion": 20789,
+        "nombre": "ana ruiz",
+        "correo": "anaruiz@gmail.com",
+        "comentario": "cliente  sin atender llamado volver a llamar 4-5-2022"
+          },
+      
+          {
+            "cotizacion": 207745,
+            "nombre": "doris  perez",
+            "correo": "dorisperez@gmail.com",
+            "comentario": "cliente  pide credito comercial , pedir carpeta tributaria antes de 7-9-2022"
+              }
+]
